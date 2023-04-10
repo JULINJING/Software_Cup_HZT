@@ -5,7 +5,14 @@
 ## 数据集字段说明
 |  字段名   | 描述  |
 |  ----  | ----  |
-|   | 单元格 |
-| 单元格  | 单元格 |
+| DATATIME  | 数据采集时间 |
+| WINDSPEED  | 风速 |
+| PREPOWER |  |
+| WINDDIRECTION | 风向 (0-360) 以度为单位 |
+| TEMPERATURE | 温度 |
+| HUMIDITY | 湿度 |
+| PRESSURE |气压 以百帕为单位 (标准大气压1014百帕)|
+| ROUND(A.WS,1) ||
+| ROUND(A.WS,1) ||
 # 关键技术
 # 实验验证
