@@ -13,6 +13,7 @@
 | HUMIDITY | 湿度 |
 | PRESSURE |气压 以百帕为单位 (标准大气压1014百帕)|
 | ROUND(A.WS,1) ||
-| ROUND(A.WS,1) ||
+| ROUND(A.POWER,0) ||
+| YD15|  |
 # 关键技术
 # 实验验证
