@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,6 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "154ab3d191f490af",
+  "active": "15f26cae9034ad76",
   "lastOpenFiles": []
 }
