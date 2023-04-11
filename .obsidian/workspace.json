@@ -11,9 +11,11 @@
             "id": "cb47deddbc93b2fa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "papers/MTS-Mixers.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/MTS-Mixers.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/MTS-Mixers.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/MTS-Mixers.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -131,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +147,10 @@
   },
   "active": "cb47deddbc93b2fa",
   "lastOpenFiles": [
+    "papers/MTS-Mixers.pdf",
     "img/1.png",
     "README.md",
     "20200327_1.png.md",
-    "papers/MTS-Mixers.pdf",
     "img/1.png.crdownload",
     "img"
   ]

@@ -31,5 +31,6 @@
 - 提出了一种新的方法MTS-Mixers，它使用两个分解模块来捕捉时间和通道相关性，从而提高预测准确性和效率。
 ### 结论
 - 发现attention不是捕捉时间相关性的必要手段，并且时间相关性和通道相关性之间的纠缠和重叠会影响预测性能。为了克服这些挑战，提出了MTS-Mixers，它使用两个分解模块来捕捉时间和通道相关性。MTS-Mixers已经在多个公共实际多变量时间序列数据集上达到了最先进的预测性能，平均降低了15.4％的MSE(均方误差)和12.9％的MAE(平均绝对误差)。
-
+### 官方实现
+[plumprc/MTS-Mixers: MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing (github.com)](https://github.com/plumprc/MTS-Mixers)
 # 实验验证
