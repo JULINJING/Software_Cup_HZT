@@ -19,6 +19,8 @@
 ### 数据集说明
 训练数据分为11个表格，其中第四个风电场数据分为两个表格。不同风电场的时间戳序列也不是一一对应的。
 # 关键技术
+## 数据预处理
+
 ## 多元时间序列（MTS）
 多变量时间序列具有一个以上的时间依赖变量。每个变量不仅取决于其过去的值，而且还对其他变量有一定的依赖性。这种依赖性用于预测未来的价值。
 ![image](img/1.png "多元时间序列演示")
@@ -36,4 +38,8 @@
 - 发现attention不是捕捉时间相关性的必要手段，并且时间相关性和通道相关性之间的纠缠和重叠会影响预测性能。为了克服这些挑战，提出了MTS-Mixers，它使用两个分解模块来捕捉时间和通道相关性。MTS-Mixers已经在多个公共实际多变量时间序列数据集上达到了最先进的预测性能，平均降低了15.4％的MSE(均方误差)和12.9％的MAE(平均绝对误差)。
 ### 官方实现
 [plumprc/MTS-Mixers: MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing (github.com)](https://github.com/plumprc/MTS-Mixers)
+# 软件创新点
+## 可视化
+## 实时更新与滚动预测
+
 # 实验验证
