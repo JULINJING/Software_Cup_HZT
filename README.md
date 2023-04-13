@@ -42,6 +42,7 @@
 [plumprc/MTS-Mixers: MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing (github.com)](https://github.com/plumprc/MTS-Mixers)
 # 软件创新点
 ## 可视化
+在web端用threejs库做十个风力发电机的三维可视化模型，具体的位置数据是假想数据，可以参考2022 kdd风电赛道的空间数据。
 ## 实时更新与滚动预测
 ## 安排检修计划
 
